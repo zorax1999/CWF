@@ -1964,6 +1964,21 @@ body {
 .cid-r70k5LxWxZ .mbr-section-subtitle {
   color: #efefef;
 }
+.cid-r89s6beAXb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #e4d295);
+}
+@media (min-width: 992px) {
+  .cid-r89s6beAXb .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r89s6beAXb .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-r70oXbaTYI {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1990,11 +2005,11 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #dc1a1a;
+  background: #b1a374;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #dc1a1a, #55b4d4) !important;
+  background: linear-gradient(to left, #b1a374, #55b4d4) !important;
 }
 .cid-r70oXbaTYI .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -2020,11 +2035,11 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #dc1a1a !important;
+  background: #b1a374 !important;
   opacity: 0.6;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #dc1a1a, #55b4d4) !important;
+  background: linear-gradient(to left, #b1a374, #55b4d4) !important;
 }
 .cid-r70oXbaTYI .mbr-gallery-item > div > span {
   color: #ffffff;
