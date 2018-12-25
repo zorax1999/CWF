@@ -1608,6 +1608,10 @@ body {
 .cid-r8T0IdIzct .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-r8T0IdIzct .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r8T0IdIzct .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-r8T0IdIzct .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r8T0IdIzct .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1702,6 +1706,10 @@ body {
   .cid-r8T0IdIzct .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-r8T0IdIzct .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-r8T0IdIzct .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r8T0IdIzct .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-r8T0IdIzct .navbar-collapse.collapsing .navbar-buttons,
   .cid-r8T0IdIzct .navbar-collapse.show .navbar-buttons {
@@ -2020,8 +2028,8 @@ body {
   color: #ffffff;
 }
 .cid-r8VwMAqcGo {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   position: relative;
   background-image: url("../../../assets/images/kelly-sikkema-450720-unsplash-2000x1305.jpg");
 }
